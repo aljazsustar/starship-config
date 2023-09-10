@@ -1,0 +1,7 @@
+format = """
+$java$pyhton$cargo$rust$git_branch 
+$directory[>](bold green)[>](bold yellow)[>](bold red) 
+"""
+
+[directory]
+truncate_to_repo = false
